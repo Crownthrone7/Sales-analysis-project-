@@ -3,7 +3,7 @@
 This project presents a detailed sales analysis using Excel to extract actionable insights from a retail sales dataset. The analysis spans key business questions and performance metrics to guide data-driven decisions.
 
 ## Project Overview
-
+### Sales analysis dashboard.PNG
 Using a dataset spanning multiple years, we performed the following:
 
 - Calculated **average sales per state**
