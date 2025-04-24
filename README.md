@@ -1,6 +1,7 @@
 # Sales Analysis Project
 
 This project presents a detailed sales analysis using Excel to extract actionable insights from a retail sales dataset. The analysis spans key business questions and performance metrics to guide data-driven decisions.
+![Dashboard Preview](images/dashboard.png)
 
 ## Project Overview
 ### Sales analysis dashboard.PNG
